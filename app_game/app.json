@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "game",
+    "slug": "game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./src/assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1B1726"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/icon.png",
+        "backgroundColor": "#1B1726"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./src/assets/icon.png"
+    }
+  }
+}
