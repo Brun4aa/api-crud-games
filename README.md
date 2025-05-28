@@ -30,7 +30,8 @@ Este é um projeto que consiste em um aplicativo mobile desenvolvido com React N
 * **`@react-navigation/native` (`useFocusEffect`):** Para recarregar dados quando a tela entra em foco.
 
 ### Backend
-* **SpringBoot:** Ambiente de execução JavaScript.
+* **SpringBoot:** Ambiente de execução Java.
+* 
 
 
 ## 📦 Estrutura do Projeto
