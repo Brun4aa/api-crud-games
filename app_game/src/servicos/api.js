@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://apijogos-production.up.railway.app';
+const API_BASE_URL = 'https://apijogos-production-0fd9.up.railway.app/';
 
 export async function fetchJogos() {
   try {
